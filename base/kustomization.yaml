@@ -5,3 +5,5 @@ resources:
 - deployment.yaml
 - service-frontend.yaml
 - deployment-frontend.yaml
+
+nameSuffix: -apac
