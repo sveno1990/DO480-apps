@@ -3,5 +3,5 @@ Kind: Kustomization
 resources:
 - service.yaml
 - deployment.yaml
-- route.yaml
+- service-frontend.yaml
 - deployment-frontend.yaml
