@@ -8,7 +8,7 @@ metadata:
     name: hello-app
   namespace: compreview-install
 spec:
-  replicas: 0
+  replicas: 1
   selector:
     matchLabels:
       app: hello-app
